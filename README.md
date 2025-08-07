@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Paban Chatterjee
+# 💫 Hi 👋, I'm Paban
 **A passionate Excel Expert || Dashboard Designer || Power BI Developer from India**
 
 Email Me 👉 ✉️ **pawanchatterjee2020@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **pawanchatterjee2020@gmail.com** For Collaboration/Project
 - 👯 **I’m looking to collaborate on:** Netflix and Facebook user based Analysis
 - 🤔 **I’m looking for help with:** Netflix Project
 - 💬 **Ask me about:** Collaboration, Dashboard Support
-- 📫 **How to reach me:** pawanchatterjee2020@gmail.com
+- 📫 **How to reach me:** www.linkedin.com/in/pabanc025
 - 😄 **Pronouns:** Paban Sir
 - ⚡ **My Words:** I turn tables into tales — data tales.
 
